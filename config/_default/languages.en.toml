@@ -1,0 +1,24 @@
+locale = "en"
+label = "English"
+direction = "ltr"
+weight = 1
+
+title = "COMPAORE Yolemba Harold Judicaël"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["blogs"]
+  description = "GenAI developer"
+
+[params.author]
+  name = "COMPAORE Yolemba Harold Judicaël"
+  image = "img/author.jpg"
+  headline = "GenAI developer"
+  bio = "GenAI developer"
+  links = [
+    { email = "mailto:haroldcompaore07@gmail.com" },
+    { github = "https://github.com/202422" },
+    { linkedin = "https://www.linkedin.com/in/harold18/" },
+  ]
