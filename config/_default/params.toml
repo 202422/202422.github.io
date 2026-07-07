@@ -33,6 +33,7 @@ fingerprintAlgorithm = "sha256"
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
+  heading = "Hello, I'm Harold 😁" # shown only on the homepage profile; bylines still use author.name
   showRecent = false
   recentLimit = 5
 

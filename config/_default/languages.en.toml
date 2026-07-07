@@ -15,8 +15,8 @@ title = "COMPAORE Yolemba Harold Judicaël"
 [params.author]
   name = "COMPAORE Yolemba Harold Judicaël"
   image = "img/author.jpg"
-  headline = "GenAI developer"
-  bio = "GenAI developer"
+  headline = "Junior GenAI Developer @ [Syntax Morocco](https://www.syntax.com)"
+  bio = "Junior GenAI Developer @ Syntax Morocco"
   links = [
     { email = "mailto:haroldcompaore07@gmail.com" },
     { github = "https://github.com/202422" },
